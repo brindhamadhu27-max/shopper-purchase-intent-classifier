@@ -5,3 +5,5 @@ venv/
 .DS_Store
 SUBMISSION_CHECKLIST.md
 README.md
+.idea/
+.agents/

@@ -35,7 +35,7 @@ The dataset meets the assignment minimums (at least 12 features and 500 instance
 
 https://github.com/brindhamadhu27-max/shopper-purchase-intent-classifier
 
-**Live Streamlit app:** `PASTE_YOUR_DEPLOYED_APP_URL`
+**Live Streamlit app:** ` https://shopper-purchase-intent-classifier-5sn44kmpammzamrejcpo8g.streamlit.app/`
 
 ## d. Models used and evaluation
 
